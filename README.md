@@ -4,8 +4,7 @@
 
 ## Problem Statement:
 
-The copper industry faces challenges in handling sales and pricing data characterized by skewness and noise. Manual predictions are time-consuming and may lack accuracy. This project aims to develop machine learning models to predict the 'Selling_Price' and classify lead statuses (WON or LOST) using advanced techniques.
-
+The Copper Industry Sales and Leads Prediction Project addresses challenges in managing sales and pricing data characterized by skewness and noise. Manual predictions within the industry are often time-consuming and may lack accuracy. To overcome these challenges, this project focuses on the development of machine learning models.
 
 ## Tools Used:
 
