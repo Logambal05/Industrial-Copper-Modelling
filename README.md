@@ -9,10 +9,10 @@ The copper industry faces challenges in handling sales and pricing data characte
 
 ## Tools Used:
 
-- Python: Facilitates versatile programming capabilities.
-- Pandas and NumPy: These libraries will be used for data manipulation and preprocessing.
-- Scikit-Learn: A powerful machine learning library that includes tools for regression and classification models.
-- Streamlit: A user-friendly library for creating web applications with minimal code, perfect for building an interactive interface for our models.
+- **_Python_**: Facilitates versatile programming capabilities.
+- **_Pandas and NumPy_**: These libraries will be used for data manipulation and preprocessing.
+- **_Scikit-Learn_**: A powerful machine learning library that includes tools for regression and classification models.
+- **_Streamlit_**: A user-friendly library for creating web applications with minimal code, perfect for building an interactive interface for our models.
   
 
 ## Steps in the Solution:
