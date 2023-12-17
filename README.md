@@ -1,7 +1,5 @@
 # Industrial-Copper-Modelling
 
-# Industrial-Copper-Modelling
-
 # Copper Industry Sales and Leads Prediction Project
 
 ## Problem Statement:
